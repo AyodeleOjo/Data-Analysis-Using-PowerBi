@@ -38,7 +38,7 @@ The analyze task is the important step of understanding and interpreting the inf
 # Presentations 
 Here are the main findings and insights from the report...
 
-* See the Executive Report here
+* The Executive Report 
   
 https://github.com/AyodeleOjo/Data-Analysis-Using-PowerBi/blob/main/DSNaiAyodeleOJO_ExeRep.pdf
 
