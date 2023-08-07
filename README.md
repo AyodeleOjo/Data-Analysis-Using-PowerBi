@@ -44,6 +44,10 @@ https://github.com/AyodeleOjo/Data-Analysis-Using-PowerBi/blob/main/DSNaiAyodele
 
 * A 15 minutes video presentation showcasing my visualizations, insights, and data storytelling.
 
-  https://youtu.be/dStZIJOUtp0
+https://youtu.be/dStZIJOUtp0
+
+*  The Power BI (.PBIX) file
+
+https://github.com/AyodeleOjo/Data-Analysis-Using-PowerBi/blob/main/DSNaiAyodeleOJO.pbix
 
 
