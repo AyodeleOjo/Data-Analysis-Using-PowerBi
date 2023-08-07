@@ -35,4 +35,15 @@ therefore allowing the reader to follow a narrative into the data
 
 The analyze task is the important step of understanding and interpreting the information that is displayed on the report.
 
-Here are the main findings and insights from the report...See the Executive Report
+# Presentations 
+Here are the main findings and insights from the report...
+
+* See the Executive Report here
+  
+https://github.com/AyodeleOjo/Data-Analysis-Using-PowerBi/blob/main/DSNaiAyodeleOJO_ExeRep.pdf
+
+* A 15 minutes video presentation showcasing my visualizations, insights, and data storytelling.
+
+  https://youtu.be/dStZIJOUtp0
+
+
