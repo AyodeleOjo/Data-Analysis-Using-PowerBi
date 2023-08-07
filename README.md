@@ -1,5 +1,5 @@
 # Data-Analysis-Using-PowerBi
-This project was to explore valuable insights into Nigerians household’s living  conditions and contribute to informed decision making for the country’s  development. 
+My submission  for DSN AI Bootcamp Qualification 2023: Power BI Track Hackathon! This hackathon aims to showcase participants' data visualization and reporting skills using the NESG Household Survey 2018 dataset.
 
 # Introduction 
 This project was to explore valuable insights into Nigerians household’s living 
@@ -33,4 +33,4 @@ therefore allowing the reader to follow a narrative into the data
 
 The analyze task is the important step of understanding and interpreting the information that is displayed on the report.
 
-Here are the main findings and insights from the report
+Here are the main findings and insights from the report...See the Executive Report
